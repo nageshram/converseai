@@ -44,9 +44,8 @@ CONFIG = {
 }
 
 # ------------------------ Keys and Wake Word Settings ------------------------
-PORCUPINE_ACCESS_KEY = "/bJcRTGcHN7jVIS/WImwDd6juxWZbTj+b71H3URwimk2pxpFrxad3A=="
-GEMINI_API_KEY = "AIzaSyCC5r4kwuVOTl8ukc1EXrCfgc0j0VMs_7M"
-
+PORCUPINE_ACCESS_KEY = "KEY"
+GEMINI_API_KEY = "APIKEY"
 # Path to custom .ppn file (this file recognizes the spoken word "Jarvis")
 CUSTOM_WAKE_WORD_PATH =r"N:/ConverseAi/purple_en_windows_v3_0_0.ppn"
 
